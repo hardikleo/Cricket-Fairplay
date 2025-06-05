@@ -29,7 +29,6 @@ Each frame was manually labeled and pose keypoints were extracted using YOLOv8-p
 - **Recall (Fairplay)**: 89%
 
 ## Files
-- `Data Frames/` – Folder containing extracted frames used in the dataset  
 - `Confusion Matrix.png` – Visualization of model prediction vs actual  
 - `Fairplay_Detection_Project_Documentation.pdf` – Formal project documentation  
 - `Manual Labelling.ipynb` – Notebook used to label frames manually  
